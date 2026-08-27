@@ -55,7 +55,7 @@ export default function App() {
   // Update document title based on active section
   useEffect(() => {
     const sectionTitles: Record<string, string> = {
-      hero:       'Karthika S — Portfolio',
+      hero:       'Karthika S',
       about:      'About me | Karthika S',
       skills:     'Skills & Tools | Karthika S',
       education:  'Education | Karthika S',
